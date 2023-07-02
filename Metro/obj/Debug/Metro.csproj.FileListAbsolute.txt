@@ -1,0 +1,16 @@
+D:\balazsfeleves\Metro\Metro\bin\Debug\Metro.exe.config
+D:\balazsfeleves\Metro\Metro\bin\Debug\Metro.exe
+D:\balazsfeleves\Metro\Metro\bin\Debug\Metro.pdb
+D:\balazsfeleves\Metro\Metro\obj\Debug\Metro.csproj.AssemblyReference.cache
+D:\balazsfeleves\Metro\Metro\obj\Debug\Metro.csproj.SuggestedBindingRedirects.cache
+D:\balazsfeleves\Metro\Metro\obj\Debug\Metro.csproj.CoreCompileInputs.cache
+D:\balazsfeleves\Metro\Metro\obj\Debug\Metro.exe
+D:\balazsfeleves\Metro\Metro\obj\Debug\Metro.pdb
+D:\C#\Metro\Metro\Metro\bin\Debug\Metro.exe.config
+D:\C#\Metro\Metro\Metro\bin\Debug\Metro.exe
+D:\C#\Metro\Metro\Metro\bin\Debug\Metro.pdb
+D:\C#\Metro\Metro\Metro\obj\Debug\Metro.csproj.AssemblyReference.cache
+D:\C#\Metro\Metro\Metro\obj\Debug\Metro.csproj.SuggestedBindingRedirects.cache
+D:\C#\Metro\Metro\Metro\obj\Debug\Metro.csproj.CoreCompileInputs.cache
+D:\C#\Metro\Metro\Metro\obj\Debug\Metro.exe
+D:\C#\Metro\Metro\Metro\obj\Debug\Metro.pdb
